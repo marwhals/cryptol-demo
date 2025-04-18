@@ -1,0 +1,4 @@
+module MyModule where
+
+double : [8] -> [8]
+double x = x + x
